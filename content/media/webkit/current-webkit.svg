@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="488.8418"
+   height="213.54633"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2840"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2870"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2910"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5219183"
+     inkscape:cx="61.579773"
+     inkscape:cy="159.02236"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="1280"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-313.42023,-474.80161)">
+    <rect
+       style="fill:#0088aa;fill-opacity:1;stroke:none"
+       id="rect2816"
+       width="487.78152"
+       height="101.78542"
+       x="314.4805"
+       y="586.5625" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="448.43225"
+       y="650.58154"
+       id="text2818"><tspan
+         sodipodi:role="line"
+         id="tspan2820"
+         x="448.43225"
+         y="650.58154">WebCore</tspan></text>
+    <rect
+       style="fill:#00aad4;fill-opacity:1;stroke:none"
+       id="rect2822"
+       width="131.4131"
+       height="49.936977"
+       x="314.73438"
+       y="528.68097" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="352.1871"
+       y="549.70709"
+       id="text2824"><tspan
+         sodipodi:role="line"
+         id="tspan2826"
+         x="352.1871"
+         y="549.70709"
+         style="font-size:16px">WebKit</tspan><tspan
+         sodipodi:role="line"
+         x="352.1871"
+         y="569.70709"
+         style="font-size:16px"
+         id="tspan2828"> GTK+</tspan></text>
+    <rect
+       style="fill:#55ddff;fill-opacity:1;stroke:none"
+       id="rect2830"
+       width="133.38429"
+       height="45.994583"
+       x="313.42023"
+       y="474.80161" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="343.39044"
+       y="502.96268"
+       id="text2824-0"><tspan
+         sodipodi:role="line"
+         x="343.39044"
+         y="502.96268"
+         style="font-size:16px"
+         id="tspan2828-2">Public API</tspan></text>
+    <rect
+       style="fill:#00aad4;fill-opacity:1;stroke:none"
+       id="rect2822-9"
+       width="131.4131"
+       height="49.936977"
+       x="456.98904"
+       y="528.68097" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="494.44177"
+       y="549.70709"
+       id="text2824-4"><tspan
+         sodipodi:role="line"
+         id="tspan2826-3"
+         x="494.44177"
+         y="549.70709"
+         style="font-size:16px">WebKit</tspan><tspan
+         sodipodi:role="line"
+         x="494.44177"
+         y="569.70709"
+         style="font-size:16px"
+         id="tspan2828-5">  MAC</tspan></text>
+    <rect
+       style="fill:#55ddff;fill-opacity:1;stroke:none"
+       id="rect2830-1"
+       width="133.38429"
+       height="45.994583"
+       x="455.67493"
+       y="474.80161" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="485.64514"
+       y="502.96268"
+       id="text2824-0-7"><tspan
+         sodipodi:role="line"
+         x="485.64514"
+         y="502.96268"
+         style="font-size:16px"
+         id="tspan2828-2-4">Public API</tspan></text>
+    <rect
+       style="fill:#00aad4;fill-opacity:1;stroke:none"
+       id="rect2822-9-4"
+       width="131.4131"
+       height="49.936977"
+       x="603.51465"
+       y="528.68097" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="640.96741"
+       y="549.70709"
+       id="text2824-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan2826-3-6"
+         x="640.96741"
+         y="549.70709"
+         style="font-size:16px">WebKit</tspan><tspan
+         sodipodi:role="line"
+         x="640.96741"
+         y="569.70709"
+         style="font-size:16px"
+         id="tspan2828-5-8">    Qt</tspan></text>
+    <rect
+       style="fill:#55ddff;fill-opacity:1;stroke:none"
+       id="rect2830-1-9"
+       width="133.38429"
+       height="45.994583"
+       x="602.2005"
+       y="474.80161" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="632.17072"
+       y="502.96265"
+       id="text2824-0-7-0"><tspan
+         sodipodi:role="line"
+         x="632.17072"
+         y="502.96265"
+         style="font-size:16px"
+         id="tspan2828-2-4-6">Public API</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.22790909px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-576.08923"
+       y="776.59058"
+       id="text2942"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2944"
+         x="-576.08923"
+         y="776.59058">and so on...</tspan></text>
+  </g>
+</svg>
